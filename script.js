@@ -467,6 +467,7 @@ function endGame() {
     console.clear();
     console.log(chalk.cyan.bold("\n== Credits =="));
     console.log(chalk.cyan("Developed by: Yousif Paulus"));
+    console.log(chalk.cyan("Debuging by: Ammar Alkhalidi"));
     console.log(chalk.cyan("VenturoCorp Systems Compromised"));
     process.exit();
   }, LOGIN_DELAY * 2);
