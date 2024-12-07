@@ -59,3 +59,5 @@ MIT License
 ---
 
 Enjoy hacking!
+Developed by : Yousif Paulus    https://github.com/yousifpa98/hackSimulator
+Debuging by  : Ammar Alkhalidi  https://github.com/Ammar-Alkhalidi
